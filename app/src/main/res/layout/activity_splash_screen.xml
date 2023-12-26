@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple"
+    android:gravity="center">
+
+    <!-- Logo AI yang ada di tengah -->
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="184dp"
+        android:layout_height="175dp"
+        android:src="@drawable/ic_ai_logo" /> <!-- Ganti dengan nama resource logo AI Anda -->
+
+    <!-- Teks di bawah logo -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="START CODING"
+        android:textAlignment="center"
+        android:textColor="#9747FF"
+        android:textStyle="bold"
+        android:textSize="28sp" />
+
+</LinearLayout>

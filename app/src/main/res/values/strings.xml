@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Start Coding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">
+        Bahasa pemrograman adalah salah satu hal yang sangat penting dalam dunia teknologi informasi. Tanpa bahasa pemrograman, kita tidak akan bisa membuat program komputer yang dapat melakukan berbagai tugas dan fungsi. Bahasa pemrograman adalah cara kita untuk berbicara dengan komputer dan memberitahu apa yang harus dilakukan.
+
+Komputer sendiri tidak mengerti bahasa manusia. Komputer hanya mengerti bahasa biner, yaitu bahasa yang terdiri dari angka 0 dan 1. Bahasa biner ini disebut juga sebagai bahasa mesin. Bahasa mesin sangat sulit untuk dipahami dan ditulis oleh manusia. Oleh karena itu, kita membutuhkan bahasa pemrograman yang lebih mudah dan manusiawi.
+
+Bahasa pemrograman adalah bahasa yang memiliki aturan dan struktur tertentu yang disebut sebagai sintaks. Sintaks adalah kumpulan perintah yang dapat dimengerti oleh komputer. Perintah-perintah ini akan diterjemahkan oleh kompiler atau interpreter menjadi bahasa mesin. Kompiler adalah program yang mengubah seluruh kode sumber menjadi bahasa mesin sekaligus. Interpreter adalah program yang mengubah kode sumber menjadi bahasa mesin baris per baris saat program dijalankan.
+    </string>
+</resources>
